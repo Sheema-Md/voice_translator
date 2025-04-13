@@ -12,7 +12,7 @@ A simple voice translation tool built with Python that recognizes speech, transl
 
 Before running the project, install the necessary dependencies:
 
-```bash
+
 pip install -r requirements.txt
 
 This will install the following libraries:
@@ -25,7 +25,9 @@ This will install the following libraries:
 
 - **pyaudio**==0.2.11
 
-#How to Use
+
+
+## How to Use
 
 Follow these steps to set up and use the Voice Translator:
 
@@ -49,7 +51,7 @@ python voice_translator.py
 
 6.To exit, simply say **"exit"**.
 
-##Example Usage
+## Example Usage
 
 1.Run the program.
 
@@ -57,7 +59,7 @@ python voice_translator.py
 
 3.The program will translate it into "Hello, how are you?" and speak it out loud.
 
-##Libraries Used
+## Libraries Used
 
 - **googletrans**: Used for translating text with Google Translate API.
 
@@ -67,6 +69,6 @@ python voice_translator.py
 
 - **pyaudio**: Required for audio input/output in the SpeechRecognition library.
 
-##Notes
+## Notes
 
 - This project is a simple example of combining multiple libraries to create a voice translation tool. It works well for basic translations, but keep in mind that the translation may not always be perfect depending on the speech and language.

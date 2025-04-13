@@ -1,0 +1,27 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+env/
+venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# Operating System files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Dependency files
+*.env
+*.log
+
+# If you're using Jupyter Notebook, ignore checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/

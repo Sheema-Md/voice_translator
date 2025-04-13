@@ -13,7 +13,7 @@ A simple voice translation tool built with Python that recognizes speech, transl
 Before running the project, install the necessary dependencies:
 
 
-pip install -r requirements.txt
+ <pre> ```bash pip install -r requirements.txt ``` </pre>
 
 This will install the following libraries:
 
@@ -33,19 +33,19 @@ Follow these steps to set up and use the Voice Translator:
 
 1.**Clone the repository** or download the project.
 
-git clone https://github.com/Sheema-Md/voice-translator.git
+ <pre> ```bash git clone https://github.com/Sheema-Md/voice-translator.git  ``` </pre>
 
 2.**Navigate to the project folder**.
 
-cd voice-translator
+ <pre> ```bash cd voice-translator  ``` </pre>
 
 3.**Install the required libraries using requirements.txt**.
 
-pip install -r requirements.txt
+ <pre> ```bash pip install -r requirements.txt  ``` </pre>
 
 4.**Run the Python script**.
 
-python voice_translator.py
+ <pre> ```bash python voice_translator.py  ``` </pre>
 
 5.**Speak into the microphone** when prompted with **"Speak Now!!"**. The program will listen to your speech, translate it into English, and speak the translated text back to you.
 
